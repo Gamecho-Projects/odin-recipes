@@ -1,0 +1,40 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    box-sizing:border-box;
+    margin:4px;
+    padding: 8px;
+}
+
+body {
+background-color:rgb(245, 239, 224)
+}
+
+
+li::marker{
+    color: rgb(201, 111, 66);
+}
+
+div{
+    border:1px solid rgb(106,153,78);
+}
+
+h1{
+    color: rgb(20, 33, 61);
+}
+
+h2{
+    color: rgb(201, 111, 66);
+}
+
+p{
+    color: rgb(20, 33, 61);
+}
+
+.home{
+    color:rgb(106,153,78);
+}
+
+.shout-out{
+    display: block;
+    color:rgb(106,153,78);
+}
